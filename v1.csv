@@ -1,0 +1,65 @@
+vendor,I1,I2,I3,D1,D2,D3,i_d,cost
+V1,Instrument_C laser,Instrument_C laser,Instrument_C laser,Device_B,Device_B,Device_B,3_3,3311268
+V1,Instrument_C laser,Instrument_C laser,Instrument_B laser,Device_B,Device_B,Device_B,3_3,3190198
+V1,Instrument_C laser,Instrument_C laser,Instrument_A laser,Device_B,Device_B,Device_A,3_3,2939918
+V1,Instrument_C laser,Instrument_C laser,0,Device_B,Device_B,0,2_2,2258862
+V1,Instrument_C laser,Instrument_B laser,Instrument_C laser,Device_B,Device_B,Device_B,3_3,3180598
+V1,Instrument_C laser,Instrument_B laser,Instrument_B laser,Device_B,Device_B,Device_B,3_3,3059528
+V1,Instrument_C laser,Instrument_B laser,Instrument_A laser,Device_B,Device_B,Device_A,3_3,2809248
+V1,Instrument_C laser,Instrument_B laser,0,Device_B,Device_B,0,2_2,2128192
+V1,Instrument_C laser,Instrument_A laser,Instrument_C laser,Device_B,Device_A,Device_B,3_3,2915068
+V1,Instrument_C laser,Instrument_A laser,Instrument_B laser,Device_B,Device_A,Device_B,3_3,2793998
+V1,Instrument_C laser,Instrument_A laser,Instrument_A laser,Device_B,Device_A,Device_A,3_3,2543718
+V1,Instrument_C laser,Instrument_A laser,0,Device_B,Device_A,0,2_2,1862662
+V1,Instrument_C laser,0,Instrument_C laser,Device_B,0,Device_B,2_2,2258862
+V1,Instrument_C laser,0,Instrument_B laser,Device_B,0,Device_B,2_2,2128192
+V1,Instrument_C laser,0,Instrument_A laser,Device_B,0,Device_A,2_2,1862662
+V1,Instrument_C laser,0,0,Device_B,0,0,1_1,1155106
+V1,Instrument_B laser,Instrument_C laser,Instrument_C laser,Device_B,Device_B,Device_B,3_3,3170998
+V1,Instrument_B laser,Instrument_C laser,Instrument_B laser,Device_B,Device_B,Device_B,3_3,3049928
+V1,Instrument_B laser,Instrument_C laser,Instrument_A laser,Device_B,Device_B,Device_A,3_3,2799648
+V1,Instrument_B laser,Instrument_C laser,0,Device_B,Device_B,0,2_2,2118592
+V1,Instrument_B laser,Instrument_B laser,Instrument_C laser,Device_B,Device_B,Device_B,3_3,3040328
+V1,Instrument_B laser,Instrument_B laser,Instrument_B laser,Device_B,Device_B,Device_B,3_3,2919258
+V1,Instrument_B laser,Instrument_B laser,Instrument_A laser,Device_B,Device_B,Device_A,3_3,2668978
+V1,Instrument_B laser,Instrument_B laser,0,Device_B,Device_B,0,2_2,1987922
+V1,Instrument_B laser,Instrument_A laser,Instrument_C laser,Device_B,Device_A,Device_B,3_3,2774798
+V1,Instrument_B laser,Instrument_A laser,Instrument_B laser,Device_B,Device_A,Device_B,3_3,2653728
+V1,Instrument_B laser,Instrument_A laser,Instrument_A laser,Device_B,Device_A,Device_A,3_3,2403448
+V1,Instrument_B laser,Instrument_A laser,0,Device_B,Device_A,0,2_2,1722392
+V1,Instrument_B laser,0,Instrument_C laser,Device_B,0,Device_B,2_2,2118592
+V1,Instrument_B laser,0,Instrument_B laser,Device_B,0,Device_B,2_2,1987922
+V1,Instrument_B laser,0,Instrument_A laser,Device_B,0,Device_A,2_2,1722392
+V1,Instrument_B laser,0,0,Device_B,0,0,1_1,1014836
+V1,Instrument_A laser,Instrument_A laser,Instrument_A laser,Device_A,Device_A,Device_A,3_3,2122668
+V1,Instrument_A laser,Instrument_A laser,Instrument_B laser,Device_A,Device_A,Device_B,3_3,2372948
+V1,Instrument_A laser,Instrument_B laser,Instrument_B laser,Device_A,Device_B,Device_B,3_3,2638478
+V1,Instrument_A laser,Instrument_B laser,0,Device_A,Device_B,0,2_2,1707142
+V1,Instrument_A laser,Instrument_B laser,Instrument_A laser,Device_A,Device_B,Device_A,3_3,2388198
+V1,Instrument_A laser,Instrument_A laser,Instrument_C laser,Device_A,Device_A,Device_B,3_3,2494018
+V1,Instrument_A laser,Instrument_B laser,Instrument_C laser,Device_A,Device_B,Device_B,3_3,2759548
+V1,Instrument_A laser,Instrument_C laser,0,Device_A,Device_B,0,2_2,1837812
+V1,Instrument_A laser,Instrument_C laser,Instrument_A laser,Device_A,Device_B,Device_A,3_3,2518868
+V1,Instrument_A laser,Instrument_C laser,Instrument_B laser,Device_A,Device_B,Device_B,3_3,2769148
+V1,Instrument_A laser,Instrument_C laser,Instrument_C laser,Device_A,Device_B,Device_B,3_3,2890218
+V1,Instrument_A laser,Instrument_A laser,0,Device_A,Device_A,0,2_2,1441612
+V1,Instrument_A laser,0,Instrument_C laser,Device_A,0,Device_B,2_2,1837812
+V1,Instrument_A laser,0,Instrument_B laser,Device_A,0,Device_B,2_2,1707142
+V1,Instrument_A laser,0,Instrument_A laser,Device_A,0,Device_A,2_2,1441612
+V1,Instrument_A laser,0,0,Device_A,0,0,1_1,734056
+V1,0,Instrument_C laser,Instrument_C laser,0,Device_B,Device_B,2_2,2258862
+V1,0,Instrument_C laser,Instrument_B laser,0,Device_B,Device_B,2_2,2128192
+V1,0,Instrument_C laser,Instrument_A laser,0,Device_B,Device_A,2_2,1862662
+V1,0,Instrument_C laser,0,0,Device_B,0,1_1,1155106
+V1,0,Instrument_B laser,Instrument_C laser,0,Device_B,Device_B,2_2,2118592
+V1,0,Instrument_B laser,Instrument_B laser,0,Device_B,Device_B,2_2,1987922
+V1,0,Instrument_B laser,Instrument_A laser,0,Device_B,Device_A,2_2,1722392
+V1,0,Instrument_B laser,0,0,Device_B,0,1_1,1014836
+V1,0,Instrument_A laser,Instrument_C laser,0,Device_A,Device_B,2_2,1837812
+V1,0,Instrument_A laser,Instrument_B laser,0,Device_A,Device_B,2_2,1707142
+V1,0,Instrument_A laser,Instrument_A laser,0,Device_A,Device_A,2_2,1441612
+V1,0,Instrument_A laser,0,0,Device_A,0,1_1,734056
+V1,0,0,Instrument_C laser,0,0,Device_B,1_1,1155106
+V1,0,0,Instrument_B laser,0,0,Device_B,1_1,1014836
+V1,0,0,Instrument_A laser,0,0,Device_A,1_1,734056
+V1,0,0,0,0,0,0,0_0,0
